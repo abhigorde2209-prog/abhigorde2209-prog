@@ -1,4 +1,4 @@
-![Header](https://www.freepik.com/free-vector/data-concept-illustration-idea-collecting-analysing-using_26477283.htm#fromView=keyword&page=1&position=0&uuid=d80ab2e5-f0bf-426e-b3ab-f1f98e108e18&query=Data+science+themes)
+![Header]("C:\Users\Abhilash\Downloads\data.jpg")
 
 <h1 align="center">Hi 👋, I'm Abhilash Gorde</h1>
 <p align="center">
