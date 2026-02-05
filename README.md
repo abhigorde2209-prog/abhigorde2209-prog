@@ -1,4 +1,4 @@
-![Header]("C:\Users\Abhilash\Downloads\data.jpg")
+![Header]("https://www.thedataschool.com.au/wp-content/uploads/2024/12/DA-2.webp")
 
 <h1 align="center">Hi 👋, I'm Abhilash Gorde</h1>
 <p align="center">
