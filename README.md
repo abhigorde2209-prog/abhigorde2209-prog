@@ -1,4 +1,4 @@
-![Header]("https://as1.ftcdn.net/v2/jpg/05/18/97/76/1000_F_518977661_OrSNTLlRVS7Zoi4DMnOwoVPljCdQxrKx.jpg")
+
 
 <h1 align="center">Hi 👋, I'm Abhilash Gorde</h1>
 <p align="center">
