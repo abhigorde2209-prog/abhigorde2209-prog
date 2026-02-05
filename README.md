@@ -1,4 +1,4 @@
-![Header](https://images.unsplash.com/photo-1526378722484-bd91ca387e72?auto=format&fit=crop&w=1600&q=60)
+![Header](https://www.freepik.com/free-vector/data-concept-illustration-idea-collecting-analysing-using_26477283.htm#fromView=keyword&page=1&position=0&uuid=d80ab2e5-f0bf-426e-b3ab-f1f98e108e18&query=Data+science+themes)
 
 <h1 align="center">Hi 👋, I'm Abhilash Gorde</h1>
 <p align="center">
@@ -51,7 +51,6 @@ src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/
 
 **Data Visualization & BI**
 <p>
-<img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" width="36"/>
 <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="36"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="36"/>
 <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="36"/>
